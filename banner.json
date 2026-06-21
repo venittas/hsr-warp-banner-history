@@ -5173,62 +5173,70 @@
                 {
                     "character": [
                         {
-                            "name": "Himeko",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Gepard",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Clara",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Welt",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Yanqing",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Bronya",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Bailu",
-                            "rank": "5"
+                            "featured": [
+                                {
+                                    "name": "Himeko",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Gepard",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Clara",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Welt",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Yanqing",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Bronya",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Bailu",
+                                    "rank": "5"
+                                }
+                            ]
                         }
                     ],
                     "light_cone": [
                         {
-                            "name": "Night of the Milky Way",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Moment of Victory",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Something Irreplaceable",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "In the Name of The World",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Sleep Like the Dead",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "But the Battle Isn't Over",
-                            "rank": "5"
-                        },
-                        {
-                            "name": "Time Waits for No One",
-                            "rank": "5"
+                            "featured": [
+                                {
+                                    "name": "Night of the Milky Way",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Moment of Victory",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Something Irreplaceable",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "In the Name of The World",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Sleep Like the Dead",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "But the Battle Isn't Over",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "Time Waits for No One",
+                                    "rank": "5"
+                                }
+                            ]
                         }
                     ]
                 }
