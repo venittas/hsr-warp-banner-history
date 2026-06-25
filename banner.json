@@ -95,6 +95,99 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "phase": 2,
+                    "start_date": "06-24-2026",
+                    "end_date": "07-14-2026",
+                    "character": [
+                        {
+                            "name": "Ripples Rejoined",
+                            "featured": [
+                                {
+                                    "name": "Cyrene",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "March 7th",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Arlan",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Yukong",
+                                    "rank": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "To Evermore Burn as the Sun",
+                            "featured": [
+                                {
+                                    "name": "Phainon",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "March 7th",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Arlan",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Yukong",
+                                    "rank": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "light_cone": [
+                        {
+                            "name": "This Love, Forever",
+                            "featured": [
+                                {
+                                    "name": "This Love, Forever",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "A Secret Vow",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Subscribe for More!",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Dance! Dance! Dance!",
+                                    "rank": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Thus Burns the Dawn",
+                            "featured": [
+                                {
+                                    "name": "Thus Burns the Dawn",
+                                    "rank": "5"
+                                },
+                                {
+                                    "name": "A Secret Vow",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Subscribe for More!",
+                                    "rank": "4"
+                                },
+                                {
+                                    "name": "Dance! Dance! Dance!",
+                                    "rank": "4"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
